@@ -48,7 +48,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(PHOTOS/mena\ photo.png) no-repeat;
+    background: url(./photos/mena\ photo.png) no-repeat;
     background-size: cover;
     background-size: cover;
     background-attachment: fixed;
